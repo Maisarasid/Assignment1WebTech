@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Web Based Mahallah Pre Registration</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <img class = "logo" src="iium logo.png" width="200" height="70" alt="logo uia">
+    <br>
+    <div class="triangle">
+
+            <img src="http://photos.iium.edu.my/flagship/river_of_life.jpg" width="1000" height="200" alt="uia picture"
+              class="polygon-clip-triangle-isoceles">
+
+        <svg class="clip-svg">
+					           <clipPath id="polygon-clip-triangle-isoceles" clipPathUnits="objectBoundingBox">
+						                 <polygon points="0 1, 0 0, 1 0.5">
+					           </clipPath>
+			  </svg>
+    </div>
+  <!--<polygon points="0 0.87, 0.5 0, 0.5 0, 1 0.87" />-->
+
+<div class=" Details">
+
+  <h1>Web-Based Mahallah <br> Pre-Registration</h1>
+  <h3>Login <hr></h3>
+  <input type="text" name="" value="Enter matric no">
+  <br><br>
+  <input type="text" name="" value="Enter password">
+  <br>
+  <input type="checkbox" name="" value="">Remember me
+  <br><br>
+  <button type="button" name="button">Login</button>
+</div>
+
+<br>
+<a href="http://photos.iium.edu.my/flagship/river_of_life.jpg ">Download image here</a>
+<br>
+
+<footer class="pull-right">
+
+    <p><a href="#">Privacy Policy</a> <a href="#">Disclaimer</a>
+      Copyright 2019
+    </p>
+
+</footer>
+
+
+
+  </body>
+</html>
